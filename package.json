@@ -1,14 +1,14 @@
 {
   "name": "parseful",
   "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "description": "Parseful is the most powerful parser combinator written in pure JavaScript.",
   "main": "lib/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@git.tokyo.gehirn.co.jp:koba789/parseful.git"
+    "url": "https://github.com/GehirnInc/parseful.git"
   },
   "author": "KOBA789<hidekazu.kobayashi@gehirn.co.jp>",
   "license": "MIT"
