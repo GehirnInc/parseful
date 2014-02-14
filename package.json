@@ -1,0 +1,15 @@
+{
+  "name": "parseful",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.tokyo.gehirn.co.jp:koba789/parseful.git"
+  },
+  "author": "KOBA789<hidekazu.kobayashi@gehirn.co.jp>",
+  "license": "MIT"
+}
