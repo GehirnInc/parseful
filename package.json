@@ -1,6 +1,6 @@
 {
   "name": "parseful",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parseful is the most powerful parser combinator written in pure JavaScript.",
   "main": "lib/",
   "scripts": {
